@@ -1,0 +1,1 @@
+export * as filetendo from "../filetendo/mod.ts"

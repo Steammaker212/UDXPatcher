@@ -1,0 +1,1 @@
+export * as lz4 from "jsr:@denosaurs/lz4@0.1.4";
