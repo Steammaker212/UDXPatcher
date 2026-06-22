@@ -18,7 +18,7 @@ And based on the results we can say that it works on ``Ryubing``, ``KenjiNX`` (A
 
 [**jabonchan**](https://github.com/jabonchan)**:** Main developer <br />
 [**Mario Possamato**](https://github.com/mariopossamato)**:** Developer and researcher <br />
-**Steam_Deb:** Tester
+[**Steam_DuB**](https://github.com/Steammaker212)**:** Tester
 
 *Dependency:* [**deno_lz4**](https://github.com/denosaurs/deno_lz4) by [**denosaurs Team**](https://github.com/denosaurs) - Licensed under **MIT** <br />
 *Dependency:* [**lz4**](https://github.com/lz4/lz4) by [**lz4 Team**](https://github.com/lz4) - Licensed under **BSD 2-Clause**  (see LZ4_LICENSE) <br />
